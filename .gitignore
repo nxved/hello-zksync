@@ -11,6 +11,8 @@ lerna-debug.log*
 artifacts
 cache
 
+___temp
+zkSyncSepoliaTestnet
 # zksync artifacts
 artifacts-zk
 cache-zk
